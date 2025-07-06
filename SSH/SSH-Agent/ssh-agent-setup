@@ -26,6 +26,12 @@ ssh-add -l
 ssh user@192.2.2.2
 
 
+#you can kill the agent once your done
+eval $(ssh-agent -k)
+
+
+
+
 
 
 
