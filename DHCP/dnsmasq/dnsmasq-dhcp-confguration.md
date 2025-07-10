@@ -69,7 +69,7 @@ ip addr
 journalctl -u dnsmasq # you will see in the log that server gave an DHCPoffer to server 2 with the new ip from our range
 
 
-```bash
+```
 
 images
 
