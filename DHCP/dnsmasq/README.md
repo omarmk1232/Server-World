@@ -21,10 +21,10 @@ the host accepts the host and sends a reuqest to the dhcp server.
 the dhcp server acknoldges the hosts reqests and reserves this ip for it.
 
 
+
 >[!note]
 > dhcp uses UDP to communicate ports 67 & 68.
-
-
+> dhcp sends other info with the ip to the host like dns,gateway,ntp these are called [options](https://blog.abysm.org/2020/06/human-readable-dhcp-options-for-dnsmasq/)
 
 
 
