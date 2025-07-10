@@ -70,9 +70,9 @@ journalctl -u dnsmasq # you will see in the log that server gave an DHCPoffer to
 
 
 ```
-
+dhcp server logs
 ![Dhcp server logs](https://github.com/omarmk1232/Server-World/blob/main/images/dhcp-dnsmasq/dnsmasqlogs.JPG)
-
+server 2 ip assigned
 ![Server 2 ip assigned](https://github.com/omarmk1232/Server-World/blob/main/images/dhcp-dnsmasq/server2%20logs.JPG)
 
 
